@@ -1,3 +1,4 @@
+//本项目已经推送到github https://www.github.com/gethobby/wechat
 var express =require('express');
 var path =require('path');
 var app = require('express')();
